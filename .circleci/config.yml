@@ -22,7 +22,7 @@ jobs:
       TERM: dumb
       ANDROID_HOME: //Users/abhishagrawal/android-sdks
       ANDROID_BUILD_TOOLS: 26.0.1
-    --stacktrace
+    
     steps:
       - checkout
 
